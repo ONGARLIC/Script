@@ -1,0 +1,1 @@
+(game:HttpGet('https://raw.githubusercontent.com/laderite/zenx/main/scripts/Age_of_Gays.lua')
